@@ -14,8 +14,7 @@ def go():
     turn (1)
     go()
   
-  
-  
+  if right_side()
     
    
 go()
