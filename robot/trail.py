@@ -15,7 +15,7 @@ def go():
     go()
   
   if right_side()!="fruit" and left_side()!="fruit" and touch()!="fruit":
-  move()
+    move()
     
    
 go()
