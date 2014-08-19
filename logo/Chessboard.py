@@ -7,8 +7,7 @@ def square(side):
   def spiral(size):
   
     return
-  
-  move(size)
+
   turn(90)
   spiral(size + 5)
   
