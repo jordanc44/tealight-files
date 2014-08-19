@@ -26,7 +26,7 @@ def go():
     move()
     go()
     
-  if touch()=="wall":
+  while touch()=="wall":
     turn(3)
       
     
