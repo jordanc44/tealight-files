@@ -6,6 +6,6 @@ from tealight.robot import (move,
                             left_side, 
                             right_side)
 
-while touch()! == "fruit":
+while touch()! =="fruit":
   move()
   
