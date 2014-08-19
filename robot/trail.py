@@ -8,10 +8,6 @@ from tealight.robot import (move,
 def go():
   while touch()=="fruit":
    move()
-    
-    elif left_side()=="fruit":
-      turn(3)
-      move()
    
   
   
