@@ -9,12 +9,14 @@ def go():
   while touch()=="fruit":
    move()
     
+  if left_side() and right_side() and touch() !="fruit":
+    move()
+    
   if touch()!="fruit":
     turn (1)
     go()
   
-  if left_side() and right_side() and touch() !="fruit":
-    move()
+  
   
     
    
