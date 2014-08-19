@@ -9,7 +9,7 @@ def go():
   while touch()=="fruit":
    move()
     
-  else left_side()=="fruit":
+   else left_side()=="fruit":
       turn(3)
       move()
    
