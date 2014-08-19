@@ -6,7 +6,6 @@ def square(side):
     turn(90)
   def spiral(size):
   
-  if size > 300:
     return
   
   move(size)
