@@ -10,14 +10,11 @@ def go():
    move()
     
    
-  if touch()!="fruit":
-    turn (1)
   
-   
-    if right_side()!="fruit" and left_side()!="fruit":
-     move()
-     go()
-   
+  
+  if right_side()=="fruit":
+    turn(3)
+    go()
     
     
 go()
