@@ -24,5 +24,9 @@ def go():
   if left_side()!="fruit" and right_side!="fruit":
     move()
     go()
+  
+  if touch()=="wall":
+    turn(2)
+    go()
     
 go()
