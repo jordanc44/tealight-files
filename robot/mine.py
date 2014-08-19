@@ -13,7 +13,7 @@ def go():
     
  
   if touch()!="fruit":
-    turn (2)
+    turn (3)
     go()
   
   
