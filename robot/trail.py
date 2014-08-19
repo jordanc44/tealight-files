@@ -16,6 +16,10 @@ def go():
     turn(1)
     go()
     
+  if left_side()=="fruit":
+    turn(3)
+    go()
+    
     
 go()
 
