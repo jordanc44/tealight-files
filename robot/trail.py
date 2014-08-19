@@ -13,6 +13,8 @@ def go():
     turn (1)
     go()
     
+   
+    
 go()
 
   
