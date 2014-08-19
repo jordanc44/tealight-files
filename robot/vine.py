@@ -13,7 +13,6 @@ def go():
    move()
    
   
-  
   if right_side()=="fruit":
     turn(1)
     go()
@@ -24,6 +23,6 @@ def go():
     
   if left_side()!="fruit" and right_side!="fruit":
     move()
-   
+    go()
     
 go()
