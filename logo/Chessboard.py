@@ -5,4 +5,7 @@ def square(side):
     move(side)
     turn(90)
    
-square(50)
+
+def chessboard():
+  for i2 in range(0,64):
+    
