@@ -6,5 +6,5 @@ colors = ["red", "green", "blue"]
 
 for i in range(0,250):
   move(i)
-  turn(6)
+  turn(54)
   color(colors[i%3])
