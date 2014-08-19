@@ -6,4 +6,4 @@ def square(side):
     turn(90)
    
 
-square(4)
+square(50)
