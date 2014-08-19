@@ -6,8 +6,9 @@ def square(side):
     move(side)
     turn(90)
     
-for k in range(0, 8):
-  turn(180)
-  for n in range(0, 8):
-   square(50)
-   move(50)
+  for k in range(0, 8):
+    for n in range(0, 8):
+     square(50)
+     move(50)
+  turn(90)
+  move(50)
