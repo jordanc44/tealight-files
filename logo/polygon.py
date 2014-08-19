@@ -5,5 +5,5 @@ def polygon(edges, size):
   for i in range(0, edges):
     move(size)
     turn(angle)
-    
-polygon(50,25)
+   
+polygon(25,25)
