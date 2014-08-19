@@ -7,8 +7,5 @@ from tealight.robot import (move,
                             right_side)
 
 # Add your code here
-move()
-move()
+for i in range (0, 2):
 turn(1)
-move()
-move()
