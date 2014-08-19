@@ -13,7 +13,7 @@ def square(side):
   turn(90)
   spiral(size + 5)
   
-spiral(0)
-   
-
+  spiral(0)
+    
+    
 square(50)
