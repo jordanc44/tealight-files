@@ -13,7 +13,7 @@ def go():
   
   
   if right_side()=="fruit":
-    turn(3)
+    turn(1)
     go()
     
     
