@@ -9,5 +9,5 @@ def go():
   while touch()=="fruit":
    move()
   if touch()!="fruit":
-  turn (1)
+    turn (1)
   
