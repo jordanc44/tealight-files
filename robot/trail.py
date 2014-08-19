@@ -7,7 +7,7 @@ from tealight.robot import (move,
                             right_side)
 def go():
   while touch()=="fruit":
-  move()
-if touch()!="fruit":
+   move()
+ if touch()!="fruit":
   turn (1)
   
