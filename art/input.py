@@ -11,7 +11,3 @@ def handle_mousemove(x,y,button):
     color("red")
     circle(x,y,50)
     
-def handle_mousedown(x,y):
-  if button == "right":
-    color("yellow")
-    spot(x,y,75)
