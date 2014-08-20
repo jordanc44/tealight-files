@@ -21,5 +21,5 @@ def handle_mousemove(x,y,button):
     
 def handle_mousedown(button):
   if button =="right":
-    color("red")
+    color( "red" )
   
