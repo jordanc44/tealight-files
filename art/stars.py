@@ -15,7 +15,7 @@ def star(x, y, c, x_rad, y_rad, spines):
     y1 = y + (y_rad * sin(angle + (2* pi / spines))) 
     
     
-    line(x, y, x0, y0)
+    line(x1, y1, x0, y0)
     
     angle = angle + (2* pi / spines)
 
