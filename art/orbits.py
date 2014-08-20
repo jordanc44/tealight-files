@@ -5,7 +5,7 @@ y = 400
 vx = 0
 vy = 0
 ax = 0
-ay = 0.005
+ay = 0.05
 
 power = 0.1
 
@@ -15,10 +15,10 @@ def handle_keydown(key):
 
   if key == "left":
     ax = -power
-    ay = 0.006
+    ay = 0.05
   elif key == "right":
     ax = power
-    ay = 0.006
+    ay = 0.05
   elif key == "up":
     ay = -power
 
