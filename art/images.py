@@ -4,7 +4,7 @@ x = 0
 y = 150
 
 width = 8
-height = 
+height = 1
 
 for i in range(0,width):
   for j in range(0,height):
