@@ -3,8 +3,9 @@ from tealight.art import (color, line, spot, circle, box, image, text, backgroun
 x = 0
 y = 150
 
-width = 10
-height = 1
+width = 8
+height = 20
+
 
 for i in range(0,width):
   for j in range(0,height):
