@@ -48,6 +48,6 @@ def handle_frame():
   
   color("blue")
   
-  spot(x,y,20)
+  spot(x,y,12)
   
   
