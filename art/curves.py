@@ -12,4 +12,4 @@ for x in range(0,78):
     else:
       color("blue")
     
-    box(x*18,y*10,10,10)
+    box(x*10,y*10,20,10)
