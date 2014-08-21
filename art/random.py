@@ -12,7 +12,7 @@ print x
 
 
 
-i = random.randrange(100, 5000)
+i = random.randrange(100, 700)
 j = random.randrange(100, 200) 
 
 image(i, j, "animals/Ant.png")
