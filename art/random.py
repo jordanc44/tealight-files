@@ -3,7 +3,7 @@ from tealight.art import (color, line, spot, circle, box, image, text, backgroun
 
 from random import shuffle
 
-p = range(200)
+p = range(10)
 q = range(400)
 shuffle (p)
 shuffle (q)
