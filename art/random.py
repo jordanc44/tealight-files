@@ -12,7 +12,7 @@ print x
 
 
 
-i = random.shuffle(500)
+i = random.randrange(500)
 j = random.randrange(500) 
 
 image(i, j, "animals/Ant.png")
