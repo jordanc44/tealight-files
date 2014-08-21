@@ -8,8 +8,10 @@ q = range(400)
 shuffle (p)
 shuffle (q)
 
-j = image(p,q,"animals/Ant.png") 
-i = image(p,q,"animals/Fish1.png") 
+Cards=[i for i in range(8)]+[i for i in range(8)]
 
+x = 100
+y = 300
 
+image(x,y, "animals/Ant.png")
 
