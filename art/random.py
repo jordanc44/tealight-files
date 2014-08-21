@@ -16,6 +16,6 @@ i = random.randrange(500)
 j = random.randrange(500) 
 
 image(i, j, "animals/Ant.png")
-image(i, j, "animals/Horse.png")
+image(j, i, "animals/Horse.png")
 image(i, j, "animals/Fish1.png")
 image(i, j, "animals/Lion.png")
