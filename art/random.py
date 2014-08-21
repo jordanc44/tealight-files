@@ -10,6 +10,6 @@ shuffle (q)
 
 j = image(p,q,"animals/Ant.png") 
 i = image(p,q,"animals/Fish1.png") 
-x = ["j", "i"]
+
 
 
