@@ -15,4 +15,4 @@ print x
 i = random.randrange(100, 200)
 j = random.randrange(100, 200) 
 
-image(i, j, "animals/Ant.png)
+image(i, j, "animals/Ant.png")
