@@ -3,15 +3,8 @@ from tealight.art import (color, line, spot, circle, box, image, text, backgroun
 
 from random import shuffle
 
-p = range(10)
-q = range(400)
-shuffle (p)
-shuffle (q)
+x = range(24) + range(24)
 
-Cards=[i for i in range(8)]+[i for i in range(8)]
+shuffle(x)
 
-x = random(p)
-y = random(q)
-
-image(x,y, "animals/Ant.png")
-
+print x
