@@ -1,6 +1,6 @@
 from tealight.art import (color, line, spot, circle, box, image, text, background)
 
-
+import random
 from random import shuffle
 
 x = range(24) + range(24)
