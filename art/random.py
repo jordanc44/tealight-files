@@ -1,6 +1,6 @@
 from random import shuffle
 
-x = [[i] for i in range(10)]
+x = ["cat", "dog","fish"]
 shuffle(x)
 
 print x
