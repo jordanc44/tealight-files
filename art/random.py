@@ -3,13 +3,13 @@ from tealight.art import (color, line, spot, circle, box, image, text, backgroun
 
 from random import shuffle
 
-x = range(200)
-y = range(400)
-shuffle (x)
-shuffle (y)
+p = range(200)
+q = range(400)
+shuffle (p)
+shuffle (q)
 
-j = image(x,y,"animals/Ant.png") 
-i = image(x,y,"animals/Fish1.png") 
+j = image(p,q,"animals/Ant.png") 
+i = image(p,q,"animals/Fish1.png") 
 x = ["j", "i"]
 
 
