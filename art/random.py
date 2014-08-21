@@ -3,7 +3,7 @@ from tealight.art import (color, line, spot, circle, box, image, text, backgroun
 
 from random import shuffle
 
-image([1],"animals/Ant.png") 
+image(1,"animals/Ant.png") 
 x = range(24) + range(24)
 
 shuffle (x)
