@@ -5,7 +5,7 @@ from random import shuffle
 
 j = image(100,100,"animals/Ant.png") 
 i = image(100,100,"animals/Fish1.png") 
-x = ["j"]
+x = ["j", "i"]
 
 
 shuffle (x)
