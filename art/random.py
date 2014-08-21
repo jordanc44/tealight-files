@@ -1,1 +1,1 @@
-from tealight.art import random
+import random
