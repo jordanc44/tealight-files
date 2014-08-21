@@ -5,11 +5,11 @@ from random import shuffle
 
 x = range(200)
 y = range(400)
+shuffle (x)
+shuffle (y)
 
 j = image(x,y,"animals/Ant.png") 
 i = image(x,y,"animals/Fish1.png") 
 x = ["j", "i"]
 
 
-shuffle (x)
-shuffle (y)
