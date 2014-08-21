@@ -4,6 +4,7 @@ from tealight.art import (color, line, spot, circle, box, image, text, backgroun
 from random import shuffle
 
 j = image(100,100,"animals/Ant.png") 
-x = j
+x = [j]
+
 
 shuffle (x)
